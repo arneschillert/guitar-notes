@@ -1,9 +1,19 @@
-abc/*abc
+.DS_Store
+
+abc/*.abc
+*.abc
 img/*pdf
+
+buildAbc.aux
+buildAbc.log
+buildAbc.pdf
+buildAbc.synctex.gz
 
 cheatsheet.log
 cheatsheet.aux
 cheatsheet.pdf
+
+
 
 tmp001.eps
 tmpfin.eps
