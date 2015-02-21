@@ -1,8 +1,9 @@
 .DS_Store
 
 abc/*.abc
-*.abc
-img/*pdf
+abc/*.pdf
+abc/*.eps
+abc/*.ps
 
 buildAbc.aux
 buildAbc.log
@@ -12,7 +13,7 @@ buildAbc.synctex.gz
 cheatsheet.log
 cheatsheet.aux
 cheatsheet.pdf
-
+cheatsheet.synctex.gz
 
 
 tmp001.eps
