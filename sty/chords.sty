@@ -48,13 +48,13 @@
     bar/.style={cap=round,double,double distance=9pt},
     nostrike/.style={line width=.8mm},
     strike/.style={line width=1mm, draw = emphCol},
-%    cm={0,-0.8,1,0,(0,0)}
-    cm={0,-0.8,2.5,0,(0,0)}
+    cm={0,-0.8,1.8,0,(0,0)}
+%    cm={0,-0.8,2.5,0,(0,0)}
   ]
   \setcounter{chords-string}{6}
   \foreach \tuning in \chordtuning
   {
-    \node at (\value{chords-string},\chordfretstart-1) {\small \tuning};
+    \node at (\value{chords-string},\chordfretstart-1) {\footnotesize \tuning};
     \addtocounter{chords-string}{-1}
   }
   \draw[yshift=-0.5cm] (1,\chordfretstart) grid (6,\chordfretend+1);
