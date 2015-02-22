@@ -4,7 +4,7 @@ Notes for guitar players
 A cumbersome cheatsheet to help my son learning to play the guitar!
 
 
-Current compiled version can be found in directory `final`, or [here!]((https://github.com/scharne/guitar-notes/blob/master/final/cheatsheet-v1.0.pdf)
+Current compiled version can be found in directory `final`, or [here!](https://github.com/scharne/guitar-notes/blob/master/final/cheatsheet-v1.0.pdf)
 
 
 Workflow
