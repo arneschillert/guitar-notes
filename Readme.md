@@ -4,6 +4,8 @@ Notes for guitar players
 A cumbersome cheatsheet to help my son learning to play the guitar!
 
 
+Current compiled version can be found in directory `final`, or (here!)[final/cheatsheet-v1.0.pdf]
+
 
 Workflow
 ----
@@ -13,9 +15,6 @@ Workflow
 1. Compile: `pdflatex cheatsheet.pdf`
 
 
-Caveats
-----
-Currently produces an empty first page.
 
 Software requirements
 ----
