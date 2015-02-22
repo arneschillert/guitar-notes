@@ -2,9 +2,7 @@ Notes for guitar players
 =====
 
 A cumbersome cheatsheet to help my son learning to play the guitar!
-
-
-Current compiled version can be found in directory `final`, or [here!](blob/master/final/cheatsheet-v1.0.pdf?raw=true)
+The compiled version can be found in the directory `final`.
 
 
 Workflow
